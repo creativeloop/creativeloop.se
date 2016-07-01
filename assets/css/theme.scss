@@ -1,0 +1,13 @@
+@import "modules/reset";
+
+html,body {
+	height: 100%;
+}
+
+body {
+	background-image: url(../img/creative-loop.jpg);
+	background-size: 70%;
+	border: 40px solid #FFF;
+	background-position: 50%;
+	background-repeat: no-repeat;
+}
