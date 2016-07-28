@@ -29,7 +29,7 @@ a {
 	text-align: center;
 	margin: 20px 20px 0 20px;
 	background-color: #e8e8e8;
-	background-image: url(/assets/img/DSC_0180_1920.jpg);
+	background-image: url(/assets/img/room1920.jpg);
 	background-size: cover;
 	background-position: 50% 50%;
 	height: calc(100vh - 40px);
@@ -81,9 +81,6 @@ a {
 			}
 			ul { margin-bottom: 20px; }
 		}
-		&.memberships {
-			min-width: 400px;
-		}
 	}
 	.intro {
 		padding: 20px;
@@ -92,6 +89,10 @@ a {
 		display: flex;
 		flex-flow: row wrap;
 		margin: 0 auto;
+		h2 {
+			display: flex;
+			align-items: center;
+		}
 		.item {
 			width: 100%;
 			background-color: #FFF;
@@ -99,7 +100,6 @@ a {
 			padding: 40px;
 			img {
 				float: left;
-				margin-top: 7px;
 			}
 			&.fast {
 				background-color: #1C1E22;
@@ -256,7 +256,6 @@ h2 {
 				margin: 10px 20px;
 				img {
 					width: 30px;
-					margin-top: 0;
 				}
 				h2, h3 {
 					font-size: 30px;
@@ -278,6 +277,33 @@ h2 {
 			.item {
 				margin: 10px 0;
 				&.fast { margin-top: 20px; }
+			}
+		}
+	}
+}
+
+@media (max-width: 500px) {
+	.loop {
+		opacity: 0.1;
+	}
+	.content {
+		.item {
+			&.text {
+				h1 {
+					font-size: 48px;
+				}
+			}
+		}
+		.pricing {
+			.item {
+				img {
+					width: 24px;
+				}
+			}
+			.header {
+				h2, h3 {
+					font-size: 20px;
+				}
 			}
 		}
 	}
