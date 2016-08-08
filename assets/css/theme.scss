@@ -2,6 +2,7 @@
 
 body {
 	font-family: 'PT Sans', sans-serif;
+	font-weight: 400;
 	color: #1C1E22;
 	line-height: 1.5;
 	display: none;
@@ -10,6 +11,10 @@ body {
 a {
 	color: #1C1E22;
 }
+
+strong, b { font-weight: 700; }
+
+h1, h2, h3, h4, h5 { font-weight: 400; }
 
 #dot-matrix {
 	background: url(/assets/img/dotmatrix.png);
@@ -74,7 +79,6 @@ a {
 				font-size: 82px;
 				line-height: 1.2;
 				margin: 0 0 30px 0;
-				font-weight: 700;
 			}
 			p {
 				margin-bottom: 20px;
@@ -132,7 +136,6 @@ a {
 			}
 			h3 {
 				font-size: 40px;
-				font-weight: bold;
 			}
 			ul {
 				li {
@@ -222,13 +225,11 @@ a {
 
 h1 {
 	font-size: 120px;
-	font-weight: bold;
 	margin: 50px;
 }
 
 h2 {
 	font-size: 40px;
-	font-weight: bold;
 }
 
 .main-footer {
