@@ -170,6 +170,14 @@ section {
 			width: 33.33333333333333%;
 			text-align: center;
 			padding: 0 30px;
+			position: relative;
+			.popular {
+				position: absolute;
+				top: -41px;
+				left: 50%;
+				width: 126px;
+				margin-left: -71px;
+			}
 			h3 {
 				font-size: 34px;
 			}
@@ -265,6 +273,18 @@ h2 {
 }
 
 @media (max-width: 1000px) {
+	.pricing-section {
+		.pricing-table {
+			flex-flow: row wrap;
+			.item {
+				width: 100%;
+				margin-bottom: 80px;
+				&:last-child {
+					margin-bottom: 0;
+				}
+			}
+		}
+	}
 	.gallery {
 		flex-flow: row wrap;
 		padding: 30px;

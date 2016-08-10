@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg width="366px" height="431px" viewBox="0 0 366 431" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 39 (31667) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
     <title>Artboard 1 Copy</title>
     <desc>Created with Sketch.</desc>
     <defs>
@@ -39,6 +39,7 @@
     </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Artboard-1-Copy">
+            <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="366" height="431"></rect>
             <rect id="Rectangle-1" fill="#3C3C3C" x="77" y="326" width="5" height="80"></rect>
             <rect id="Rectangle-1-Copy-6" fill="#3C3C3C" x="131" y="350" width="1" height="51"></rect>
             <rect id="Rectangle-1-Copy-36" fill="#3C3C3C" x="189" y="156" width="1" height="40"></rect>
@@ -68,39 +69,40 @@
             <rect id="Rectangle-1-Copy-21" fill="#3C3C3C" transform="translate(39.000000, 158.500000) rotate(-270.000000) translate(-39.000000, -158.500000) " x="36.5" y="135.5" width="5" height="46"></rect>
             <rect id="Rectangle-1-Copy-24" fill="#3C3C3C" transform="translate(46.500000, 132.500000) rotate(-270.000000) translate(-46.500000, -132.500000) " x="44" y="102" width="5" height="61"></rect>
             <rect id="Rectangle-1-Copy-21" fill="#3C3C3C" transform="translate(35.500000, 170.000000) rotate(-180.000000) translate(-35.500000, -170.000000) " x="33" y="161" width="5" height="18"></rect>
-            <rect id="Rectangle-1-Copy-25" fill="#3C3C3C" transform="translate(79.500000, 110.000000) rotate(-180.000000) translate(-79.500000, -110.000000) " x="77" y="80" width="5" height="60"></rect>
+            <rect id="Rectangle-1-Copy-25" fill="#3C3C3C" transform="translate(79.500000, 104.000000) rotate(-180.000000) translate(-79.500000, -104.000000) " x="77" y="68" width="5" height="72"></rect>
             <rect id="Rectangle-1-Copy-33" fill="#3C3C3C" transform="translate(196.500000, 111.500000) rotate(-180.000000) translate(-196.500000, -111.500000) " x="194" y="88" width="5" height="47"></rect>
-            <rect id="Rectangle-1-Copy-50" fill="#3C3C3C" transform="translate(292.500000, 114.000000) rotate(-180.000000) translate(-292.500000, -114.000000) " x="290" y="93" width="5" height="42"></rect>
-            <rect id="Rectangle-1-Copy-53" fill="#3C3C3C" transform="translate(331.500000, 114.000000) rotate(-180.000000) translate(-331.500000, -114.000000) " x="330" y="93" width="3" height="42"></rect>
-            <rect id="Rectangle-1-Copy-52" fill="#3C3C3C" transform="translate(287.500000, 132.500000) rotate(-180.000000) translate(-287.500000, -132.500000) " x="285" y="130" width="5" height="5"></rect>
-            <rect id="Rectangle-1-Copy-54" fill="#3C3C3C" transform="translate(321.500000, 132.500000) rotate(-180.000000) translate(-321.500000, -132.500000) " x="313" y="130" width="17" height="5"></rect>
+            <rect id="Rectangle-1-Copy-52" fill="#3C3C3C" transform="translate(284.000000, 132.500000) rotate(-180.000000) translate(-284.000000, -132.500000) " x="275" y="130" width="18" height="5"></rect>
+            <rect id="Rectangle-1-Copy-54" fill="#3C3C3C" transform="translate(329.500000, 132.500000) rotate(-180.000000) translate(-329.500000, -132.500000) " x="313" y="130" width="33" height="5"></rect>
             <rect id="Rectangle-1-Copy-39" fill="#3C3C3C" transform="translate(230.500000, 183.600006) rotate(-180.000000) translate(-230.500000, -183.600006) " x="228" y="171" width="5" height="25.2000122"></rect>
             <rect id="Rectangle-1-Copy-40" fill="#3C3C3C" transform="translate(230.500000, 143.000000) rotate(-180.000000) translate(-230.500000, -143.000000) " x="228" y="135" width="5" height="16"></rect>
             <rect id="Rectangle-1-Copy-48" fill="#3C3C3C" transform="translate(224.500000, 138.000000) rotate(-180.000000) translate(-224.500000, -138.000000) " x="221" y="134" width="7" height="8"></rect>
             <rect id="Rectangle-1-Copy-49" fill="#3C3C3C" transform="translate(224.500000, 193.000000) rotate(-180.000000) translate(-224.500000, -193.000000) " x="221" y="189" width="7" height="8"></rect>
-            <rect id="Rectangle-1-Copy-29" fill="#3C3C3C" transform="translate(241.841322, 39.274367) rotate(-263.000000) translate(-241.841322, -39.274367) " x="239.341322" y="30.7743671" width="5" height="17"></rect>
-            <rect id="Rectangle-1-Copy-31" fill="#3C3C3C" transform="translate(239.985306, 58.461264) rotate(-263.000000) translate(-239.985306, -58.461264) " x="237.485306" y="50.4206953" width="5" height="16.0811379"></rect>
-            <rect id="Rectangle-1-Copy-32" fill="#3C3C3C" transform="translate(231.801781, 75.138132) rotate(-351.000000) translate(-231.801781, -75.138132) " x="229.301781" y="58.9488819" width="5" height="32.378501"></rect>
-            <rect id="Rectangle-1-Copy-30" fill="#3C3C3C" transform="translate(236.482021, 32.797753) rotate(5.000000) translate(-236.482021, -32.797753) " x="233.982021" y="28.9603994" width="5" height="7.67470818"></rect>
-            <rect id="Rectangle-1-Copy-47" fill="#3C3C3C" transform="translate(246.588297, 49.855418) rotate(7.000000) translate(-246.588297, -49.855418) " x="244.088297" y="42.0032569" width="5" height="15.7043221"></rect>
+            <rect id="Rectangle-1-Copy-32" fill="#3C3C3C" transform="translate(235.757226, 52.461548) rotate(-351.000000) translate(-235.757226, -52.461548) " x="233.257226" y="27.6374462" width="5" height="49.6482044"></rect>
             <rect id="Rectangle-1-Copy-27" fill="#3C3C3C" transform="translate(161.000000, 16.500000) rotate(-90.000000) translate(-161.000000, -16.500000) " x="158.5" y="-13.5" width="5" height="60"></rect>
-            <rect id="Rectangle-1-Copy-59" fill="#3C3C3C" transform="translate(157.500000, 79.500000) rotate(-75.000000) translate(-157.500000, -79.500000) " x="155" y="60" width="5" height="39"></rect>
-            <rect id="Rectangle-1-Copy-56" fill="#3C3C3C" transform="translate(112.000000, 99.500000) rotate(-90.000000) translate(-112.000000, -99.500000) " x="109.5" y="69.5" width="5" height="60"></rect>
+            <rect id="Rectangle-1-Copy-59" fill="#3C3C3C" transform="translate(155.992534, 72.177615) rotate(-66.000000) translate(-155.992534, -72.177615) " x="153.492534" y="50.3114975" width="5" height="43.7322346"></rect>
+            <rect id="Rectangle-1-Copy-56" fill="#3C3C3C" transform="translate(112.000000, 95.500000) rotate(-90.000000) translate(-112.000000, -95.500000) " x="109.5" y="65.5" width="5" height="60"></rect>
             <rect id="Rectangle-1-Copy-34" fill="#3C3C3C" transform="translate(125.500000, 132.500000) rotate(-90.000000) translate(-125.500000, -132.500000) " x="123" y="89" width="5" height="87"></rect>
             <rect id="Rectangle-1-Copy-35" fill="#3C3C3C" transform="translate(217.500000, 132.500000) rotate(-90.000000) translate(-217.500000, -132.500000) " x="215" y="104" width="5" height="57"></rect>
-            <rect id="Rectangle-1-Copy-43" fill="#3C3C3C" transform="translate(253.500000, 132.500000) rotate(-90.000000) translate(-253.500000, -132.500000) " x="251" y="125" width="5" height="15"></rect>
-            <rect id="Rectangle-1-Copy-42" fill="#3C3C3C" transform="translate(271.670625, 90.500000) rotate(-90.000000) translate(-271.670625, -90.500000) " x="269.170625" y="17.1706247" width="5" height="146.658751"></rect>
+            <rect id="Rectangle-1-Copy-43" fill="#3C3C3C" transform="translate(248.500000, 132.500000) rotate(-90.000000) translate(-248.500000, -132.500000) " x="246" y="130" width="5" height="5"></rect>
+            <rect id="Rectangle-1-Copy-42" fill="#3C3C3C" transform="translate(204.000000, 90.500000) rotate(-90.000000) translate(-204.000000, -90.500000) " x="201.5" y="84.5" width="5" height="12"></rect>
+            <rect id="Rectangle-1-Copy-61" fill="#3C3C3C" transform="translate(239.500000, 76.000000) rotate(-180.000000) translate(-239.500000, -76.000000) " x="237" y="69" width="5" height="14"></rect>
+            <rect id="Rectangle-1-Copy-62" fill="#3C3C3C" transform="translate(272.500000, 99.500000) rotate(-180.000000) translate(-272.500000, -99.500000) " x="270" y="64" width="5" height="71"></rect>
+            <rect id="Rectangle-1-Copy-63" fill="#3C3C3C" transform="translate(252.500000, 66.500000) rotate(-90.000000) translate(-252.500000, -66.500000) " x="250" y="49" width="5" height="35"></rect>
+            <rect id="Rectangle-1-Copy-65" fill="#3C3C3C" transform="translate(237.500000, 72.500000) rotate(-90.000000) translate(-237.500000, -72.500000) " x="234" y="69" width="7" height="7"></rect>
+            <rect id="Rectangle-1-Copy-64" fill="#3C3C3C" transform="translate(311.000000, 73.500000) rotate(-90.000000) translate(-311.000000, -73.500000) " x="308.5" y="37.5" width="5" height="72"></rect>
+            <rect id="Rectangle-1-Copy-60" fill="#3C3C3C" transform="translate(222.844660, 82.359344) rotate(-121.000000) translate(-222.844660, -82.359344) " x="220.34466" y="65.8432322" width="5" height="33.0322228"></rect>
             <rect id="Rectangle-1-Copy-38" fill="#3C3C3C" transform="translate(163.533019, 143.410254) rotate(-330.000000) translate(-163.533019, -143.410254) " x="163.033019" y="133.410254" width="1" height="20"></rect>
-            <rect id="Rectangle-1-Copy-57" fill="#3C3C3C" transform="translate(148.500000, 113.500000) rotate(-30.000000) translate(-148.500000, -113.500000) " x="148" y="99" width="1" height="29"></rect>
-            <rect id="Rectangle-1-Copy-58" fill="#3C3C3C" transform="translate(180.183013, 94.477241) rotate(-30.000000) translate(-180.183013, -94.477241) " x="179.683013" y="84.9772413" width="1" height="19"></rect>
+            <rect id="Rectangle-1-Copy-57" fill="#3C3C3C" transform="translate(149.260254, 110.961914) rotate(-30.000000) translate(-149.260254, -110.961914) " x="148.760254" y="94.9619141" width="1" height="32"></rect>
+            <rect id="Rectangle-1-Copy-58" fill="#3C3C3C" transform="translate(179.183013, 90.477241) rotate(-30.000000) translate(-179.183013, -90.477241) " x="178.683013" y="80.9772413" width="1" height="19"></rect>
+            <rect id="Rectangle-1-Copy-66" fill="#3C3C3C" transform="translate(144.646484, 74.576172) rotate(-45.000000) translate(-144.646484, -74.576172) " x="144.146484" y="61.5761719" width="1" height="26"></rect>
             <rect id="Rectangle-1-Copy-38" fill="#3C3C3C" transform="translate(303.000000, 191.500000) rotate(-120.000000) translate(-303.000000, -191.500000) " x="302.5" y="181.5" width="1" height="20"></rect>
             <rect id="Rectangle-1-Copy-38" fill="#3C3C3C" transform="translate(237.433013, 158.910254) rotate(-30.000000) translate(-237.433013, -158.910254) " x="236.933013" y="148.910254" width="1" height="20"></rect>
-            <rect id="Rectangle-1-Copy-51" fill="#3C3C3C" transform="translate(268.910254, 139.433013) rotate(-60.000000) translate(-268.910254, -139.433013) " x="268.410254" y="129.433013" width="1" height="20"></rect>
+            <rect id="Rectangle-1-Copy-51" fill="#3C3C3C" transform="translate(258.910254, 139.433013) rotate(-60.000000) translate(-258.910254, -139.433013) " x="258.410254" y="129.433013" width="1" height="20"></rect>
             <rect id="Rectangle-1-Copy-55" fill="#3C3C3C" transform="translate(301.410254, 139.433013) rotate(-60.000000) translate(-301.410254, -139.433013) " x="300.910254" y="129.433013" width="1" height="20"></rect>
             <rect id="Rectangle-1-Copy-38" fill="#3C3C3C" transform="translate(67.500000, 153.183013) rotate(-120.000000) translate(-67.500000, -153.183013) " x="67" y="145.683013" width="1" height="15"></rect>
-            <rect id="Rectangle-1-Copy-28" fill="#3C3C3C" transform="translate(214.801273, 23.431907) rotate(-74.000000) translate(-214.801273, -23.431907) " x="212.301273" y="-2.06809319" width="5" height="51"></rect>
-            <rect id="Rectangle-1-Copy-26" fill="#3C3C3C" transform="translate(135.586604, 47.501307) rotate(-184.000000) translate(-135.586604, -47.501307) " x="133.086604" y="17.5013066" width="5" height="60"></rect>
-            <rect id="Rectangle-1-Copy-25" fill="#3C3C3C" transform="translate(107.081058, 78.637446) rotate(-97.000000) translate(-107.081058, -78.637446) " x="104.581058" y="48.6374457" width="5" height="60"></rect>
+            <rect id="Rectangle-1-Copy-28" fill="#3C3C3C" transform="translate(215.651933, 23.675830) rotate(-74.000000) translate(-215.651933, -23.675830) " x="213.151933" y="-2.70911146" width="5" height="52.7698822"></rect>
+            <rect id="Rectangle-1-Copy-26" fill="#3C3C3C" transform="translate(135.152533, 41.293795) rotate(-184.000000) translate(-135.152533, -41.293795) " x="132.652533" y="17.5164647" width="5" height="47.554661"></rect>
+            <rect id="Rectangle-1-Copy-25" fill="#3C3C3C" transform="translate(107.081058, 67.137446) rotate(-97.000000) translate(-107.081058, -67.137446) " x="104.581058" y="37.1374457" width="5" height="60"></rect>
             <rect id="Rectangle-1-Copy-23" fill="#3C3C3C" transform="translate(18.500000, 145.500000) rotate(-180.000000) translate(-18.500000, -145.500000) " x="16" y="135" width="5" height="21"></rect>
             <rect id="Rectangle-1-Copy-22" fill="#3C3C3C" transform="translate(55.000000, 181.500000) rotate(-270.000000) translate(-55.000000, -181.500000) " x="52.5" y="159.5" width="5" height="44"></rect>
             <rect id="Rectangle-1" fill="#3C3C3C" transform="translate(151.500000, 198.500000) rotate(-270.000000) translate(-151.500000, -198.500000) " x="149" y="181" width="5" height="35"></rect>
@@ -109,7 +111,7 @@
             <rect id="Rectangle-1-Copy-4" fill="#3C3C3C" transform="translate(333.000000, 198.500000) rotate(-270.000000) translate(-333.000000, -198.500000) " x="330.5" y="180.5" width="5" height="36"></rect>
             <rect id="Rectangle-1" fill="#3C3C3C" x="77" y="156" width="5" height="170"></rect>
             <rect id="Rectangle-1-Copy-5" fill="#3C3C3C" x="346" y="201" width="5" height="150"></rect>
-            <rect id="Rectangle-1-Copy-41" fill="#3C3C3C" x="333" y="88" width="18" height="108"></rect>
+            <rect id="Rectangle-1-Copy-41" fill="#3C3C3C" x="346" y="71" width="5" height="125.5"></rect>
             <rect id="Rectangle-1" fill="#3C3C3C" transform="translate(87.500000, 343.000000) rotate(-270.000000) translate(-87.500000, -343.000000) " x="80" y="333" width="15" height="20"></rect>
             <rect id="Rectangle-1" fill="#3C3C3C" transform="translate(260.000000, 297.000000) rotate(-270.000000) translate(-260.000000, -297.000000) " x="257" y="294" width="6" height="6"></rect>
             <rect id="Rectangle-1-Copy-15" fill="#3C3C3C" transform="translate(260.000000, 246.000000) rotate(-270.000000) translate(-260.000000, -246.000000) " x="257" y="243" width="6" height="6"></rect>
@@ -164,13 +166,13 @@
                 <tspan x="84.6140951" y="186">DM</tspan>
             </text>
             <text id="Kontor" font-family="DINAlternate-Bold, DIN Alternate" font-size="8" font-weight="bold" letter-spacing="0.666666627" fill="#1C1E22">
-                <tspan x="173.212891" y="54">Kontor</tspan>
+                <tspan x="173.212891" y="52">Kontor</tspan>
             </text>
             <text id="Konferens" font-family="DINAlternate-Bold, DIN Alternate" font-size="8" font-weight="bold" letter-spacing="0.666666627" fill="#1C1E22">
-                <tspan x="91.7167971" y="119">Konferens</tspan>
+                <tspan x="91.7167971" y="117">Konferens</tspan>
             </text>
-            <text id="Telefonrum" font-family="DINAlternate-Bold, DIN Alternate" font-size="8" font-weight="bold" letter-spacing="0.666666627" fill="#1C1E22">
-                <tspan x="89.7115887" y="93">Telefonrum</tspan>
+            <text id="Konferens" font-family="DINAlternate-Bold, DIN Alternate" font-size="8" font-weight="bold" letter-spacing="0.666666627" fill="#1C1E22">
+                <tspan x="91.7167971" y="85">Konferens</tspan>
             </text>
             <text id="Coworking/Lunch-Loun" font-family="DINAlternate-Bold, DIN Alternate" font-size="8" font-weight="bold" letter-spacing="0.666666627" fill="#1C1E22">
                 <tspan x="100.792969" y="270">Coworking/Lunch</tspan>
@@ -186,13 +188,13 @@
                 <tspan x="268.070313" y="274">Coworking</tspan>
             </text>
             <text id="Studio" font-family="DINAlternate-Bold, DIN Alternate" font-size="8" font-weight="bold" letter-spacing="0.666666627" fill="#1C1E22">
-                <tspan x="231.910156" y="114">Studio</tspan>
+                <tspan x="221.910156" y="112">Studio</tspan>
             </text>
             <text id="Verkstad" font-family="DINAlternate-Bold, DIN Alternate" font-size="8" font-weight="bold" letter-spacing="0.666666627" fill="#1C1E22">
-                <tspan x="265.589193" y="169">Verkstad</tspan>
+                <tspan x="272.089193" y="169">Verkstad</tspan>
             </text>
             <text id="Förråd" font-family="DINAlternate-Bold, DIN Alternate" font-size="8" font-weight="bold" letter-spacing="0.666666627" fill="#1C1E22">
-                <tspan x="299.162109" y="114">Förråd</tspan>
+                <tspan x="297.162109" y="106">Förråd</tspan>
             </text>
             <text id="Kontor" font-family="DINAlternate-Bold, DIN Alternate" font-size="8" font-weight="bold" letter-spacing="0.666666627" fill="#1C1E22">
                 <tspan x="212.712891" y="367">Kontor</tspan>
