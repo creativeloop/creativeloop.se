@@ -93,6 +93,17 @@ h1, h2, h3, h4, h5 { font-weight: 400; }
 section {
 	border-top: 1px solid #ebebeb;
 	padding: 60px 20px 60px 20px;
+	.social-icons {
+		margin-top: 30px;
+		li {
+			display: inline-block;
+			margin-right: 20px;
+			&:last-child { margin-right: 0; }
+			img {
+				width: 48px;
+			}
+		}
+	}
 	.intro {
 		text-align: center;
 		h2 {
