@@ -161,6 +161,11 @@ section {
 			max-width: 700px;
 			margin: 0 auto;
 		}
+		img {
+			width: 22px;
+			display: inline-block;
+			margin-bottom: -5px;
+		}
 	}
 }
 
@@ -307,6 +312,7 @@ section {
 				margin-right: 20px;
 				display: inline-block;
 				flex-basis: 72px;
+				min-width: 72px;
 			}
 		}
 	}
@@ -352,13 +358,14 @@ section {
 .footer {
 	background: #191919;
 	color: #FFF;
-	padding: 150px;
+	padding: 150px 20px;
 	border-top: none;
 	a {
 		color: #FFF;
 	}
 	img {
-		width: 300px;
+		width: 100%;
+		max-width: 300px;
 		display: block;
 		margin: 0 auto 50px auto;
 	}
