@@ -2,6 +2,9 @@
 
 Digital face of the creative coworkingspace Creative Loop in gothenburg.
 
+[![Build Status](https://img.shields.io/travis/creativeloop/creativeloop.se/master.svg?style=flat)](https://travis-ci.org/creativeloop/creativeloop.se)
+[![License](https://img.shields.io/github/license/creativeloop/creativeloop.se.svg?style=flat)](https://github.com/creativeloop/creativeloop.se/blob/master/LICENSE)
+
 ## Installation
 
 In the repository directory do the following steps to run the site locally.
