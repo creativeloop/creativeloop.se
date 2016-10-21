@@ -14,7 +14,7 @@ In the repository directory do the following steps to run the site locally.
 1. Install bundler to handle building the site.
 
   ```bash
-  gem install bundler
+  sudo gem install bundler
   ```
 
 2. Install ruby dependencies for build / serve process:
