@@ -16,6 +16,10 @@ defaults:
 
 exclude: [Gemfile, Gemfile.lock, LICENSE, README.md]
 
+sass:
+  style: compressed
+  sass_dir: assets/css
+
 gems:
   - jekyll-mentions
   - jekyll-seo-tag
