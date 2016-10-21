@@ -1,0 +1,23 @@
+title: Creative Loop
+description: Att arbeta kreativt kräver en kreativ omgivning. När vi inte själva kunde hitta ett kontorshotell som erbjöd denna möjlighet och insåg att andra satt i samma båt, beslöt vi oss för att skapa just en sådan plats — detta är grunden till Creative Loop.
+url: http://creativeloop.se
+
+author:
+  name: Creative Loop
+  picture: https://github.com/creativeloop.png
+  twitter: creativeloopse
+
+logo: https://github.com/creativeloop.png
+
+defaults:
+  -
+    values:
+      layout: default
+
+exclude: [Gemfile, Gemfile.lock, LICENSE, README.md]
+
+gems:
+  - jekyll-mentions
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jemoji
