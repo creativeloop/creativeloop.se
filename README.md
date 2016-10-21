@@ -1,3 +1,5 @@
+![Creative Loop](https://cloud.githubusercontent.com/assets/5931183/19594690/81f1beea-9786-11e6-8091-6334f3282d1f.png)
+
 # Creative Loop main website
 
 Digital face of the creative coworkingspace Creative Loop in gothenburg.
