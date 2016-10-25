@@ -1,6 +1,6 @@
-![Creative Loop](https://cloud.githubusercontent.com/assets/5931183/19594690/81f1beea-9786-11e6-8091-6334f3282d1f.png)
+[![Creative Loop](https://cloud.githubusercontent.com/assets/5931183/19594690/81f1beea-9786-11e6-8091-6334f3282d1f.png)](http://creativeloop.se/)
 
-# Creative Loop main website
+# Creative Loop
 
 Digital face of the creative coworkingspace Creative Loop in gothenburg.
 
@@ -34,3 +34,7 @@ Find us at:
 
 Haga Kyrkogata 28
 411 14 Gothenburg
+
+## License
+
+Please review the [LICENSE](LICENSE) file.
