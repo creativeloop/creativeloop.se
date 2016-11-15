@@ -12,7 +12,7 @@
 		<meta property="og:description" content="Att arbeta kreativt kräver en kreativ omgivning. När vi inte själva kunde hitta ett kontorshotell som erbjöd denna möjlighet och insåg att andra satt i samma båt, beslöt vi oss för att skapa just en sådan plats — detta är grunden till Creative Loop." />
 		<meta property="og:image" content="http://creativeloop.se/assets/img/room1920.jpg" />
 		<title>Creative Loop</title>
-		<link rel="stylesheet" type="text/css" href="/assets/css/theme.css?v=6" />
+		<link rel="stylesheet" type="text/css" href="/assets/css/theme.css?v=7" />
 		<link rel="icon" type="image/png" href="/assets/img/favicon16.png" sizes="16x16">
 		<link rel="icon" type="image/png" href="/assets/img/favicon32.png" sizes="32x32">
 		<script src="https://use.typekit.net/nga2gvk.js"></script>

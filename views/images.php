@@ -8,70 +8,40 @@
 			<div class="item">
 				<article>
 					<figure>
-						<img src="/assets/img/office12.jpg" alt="" />
+						<img src="/assets/img/office20.jpg" alt="" />
 					</figure>
 					<figcaption>
-						<strong>ENTRÉ</strong> Det händer massor i lokalen, entrén har uppdaterats bland annat!
+						<strong>Gemensam yta</strong> Det finns massor av gemensam yta som vi använder till allmänt häng, seminarier och diverse event.
 					</figcaption>
 				</article>
 			</div>
 			<div class="item">
 				<article>
 					<figure>
-						<img src="/assets/img/office1.jpg" alt="" />
+						<img src="/assets/img/office21.jpg" alt="" />
 					</figure>
 					<figcaption>
-						<strong>Coworking</strong> Jesper förbereder belysningen för flexplatserna.
+						<strong>Konferensrum</strong> I konferensrummet kan man sitta med sin kunder och prata hemligheter.
 					</figcaption>
 				</article>
 			</div>
 			<div class="item">
 				<article>
 					<figure>
-						<img src="/assets/img/office4.jpg" alt="" />
+						<img src="/assets/img/office23.jpg" alt="" />
 					</figure>
 					<figcaption>
-						<strong>Coworking</strong> Flexplatserna är redo och en del redan uthyrda!
+						<strong>GROTTAN</strong> I "grottan" kommer folk snart att flytta in!
 					</figcaption>
 				</article>
 			</div>
 			<div class="item">
 				<article>
 					<figure>
-						<img src="/assets/img/office13.jpg" alt="" />
+						<img src="/assets/img/office24.jpg" alt="" />
 					</figure>
 					<figcaption>
-						<strong>FASTA PLATSER</strong> På dom fasta platserna har du ett eget 150x75 cm bord i en grupp om två eller tre.
-					</figcaption>
-				</article>
-			</div>
-			<div class="item">
-				<article>
-					<figure>
-						<img src="/assets/img/office9.jpg" alt="" />
-					</figure>
-					<figcaption>
-						<strong>LOUNGE</strong> Häng i soffan och bolla idéer med andra på loopen eller ta ett möte med en kund.
-					</figcaption>
-				</article>
-			</div>
-			<div class="item">
-				<article>
-					<figure>
-						<img src="/assets/img/office15.jpg" alt="" />
-					</figure>
-					<figcaption>
-						<strong>KONTORSRUM</strong> Ett av kontorsrummen har dubbla ingångar och stort fönster ut mot gatan.
-					</figcaption>
-				</article>
-			</div>
-			<div class="item portrait">
-				<article>
-					<figure>
-						<img src="/assets/img/office10.jpg" alt="" />
-					</figure>
-					<figcaption>
-						<strong>GROTTAN</strong> Grottan är en större yta längst in i lokalen som tillfälligt är ämnad till konferens/lunchrum och övrig arbetsyta. Denna del planeras att delas upp till konferens, telefonrum och ytterligare ett kontorsrum. Vi är dock öppna för förslag om våra gäster vill något annat :)
+						<strong>Work in progress</strong> Vi satsar på organisk tillväxt där alla får vara med och påverka och forma vårt space.
 					</figcaption>
 				</article>
 			</div>
@@ -80,10 +50,10 @@
 			<div class="item portrait">
 				<article>
 					<figure>
-						<img src="/assets/img/office3.jpg" alt="" />
+						<img src="/assets/img/office22.jpg" alt="" />
 					</figure>
 					<figcaption>
-						<strong>LOOPEN</strong> Skylten är uppe och folk börjar flytta in. Fönsterstripening nästa! För dig som lirar Pokémon GO så nås PokéStop från entrén ;)
+						<strong>ENTRÉ</strong> I entrén hänger vi av oss jackorna! Här finns även soffa och fåtöljer :)
 					</figcaption>
 				</article>
 			</div>
@@ -91,10 +61,10 @@
 			<div class="item">
 				<article>
 					<figure>
-						<img src="/assets/img/office11.jpg" alt="" />
+						<img src="/assets/img/office19.jpg" alt="" />
 					</figure>
 					<figcaption>
-						<strong>MEETUP</strong> 46elks och sponsorer till nordens första Trainhack gästade Creative Loop med preppande dagen före
+						<strong>COWORKING</strong> I dagsläget sitter vi alla i en och samma del av lokalen, både flexare och fasta.
 					</figcaption>
 				</article>
 			</div>
@@ -111,30 +81,10 @@
 			<div class="item portrait">
 				<article>
 					<figure>
-						<img src="/assets/img/office5.jpg" alt="" />
+						<img src="/assets/img/office18.jpg" alt="" />
 					</figure>
 					<figcaption>
-						<strong>ENTRÉ</strong> Lokalen vaktas av vårat high-tech kodlås som automatiskt låser dörren när du kommer och går, ta ett steg ut så är du mitt i Vasa/Linné och alla göttigheter som området bjuder på.
-					</figcaption>
-				</article>
-			</div>
-			<div class="item">
-				<article>
-					<figure>
-						<img src="/assets/img/office14.jpg" alt="" />
-					</figure>
-					<figcaption>
-						<strong>GROTTAN</strong> Exempel på hur man skulle kunna sitta i grottan.
-					</figcaption>
-				</article>
-			</div>
-			<div class="item">
-				<article>
-					<figure>
-						<img src="/assets/img/office16.jpg" alt="" />
-					</figure>
-					<figcaption>
-						<strong>GROTTAN</strong> Exempel på hur man skulle kunna sitta i grottan.
+						<strong>ARKAD</strong> I den stora gemensamma ytan har vi tre arkadkabinetter där vi pausar med klassiker som Tetris och Pac Man. Med jämna mellanrum blir det arkad-aw också!
 					</figcaption>
 				</article>
 			</div>

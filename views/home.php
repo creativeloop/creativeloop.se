@@ -94,12 +94,11 @@
 		<p>Det händer mycket på Creative Loop, här är lite av vad som komma skall.</p>
 	</div>
 	<ul>
-		<li><span class="date">2016-10-21</span> Fredagshäng på loopen med tapetsering, arkadspel och öl</li>
 		<li><span class="date">2016-10-27</span> Apple Keynote-häng med Yrgo</li>
+    <li><span class="date">2016-11-11</span> Arkad-AW</li>
+    <li><span class="date">2016-11-15</span> Jane GBG</li>
 		<li><span class="date">2016-11-25</span> NES-AW</li>
 		<li><span class="date">Snart</span> Women in Tech</li>
-		<li><span class="date">Snart</span> Jane GBG</li>
-		<li><span class="date">Snart</span> Arkadspelskväll</li>
 		<li><span class="date">Snart</span> Minihack – Automatiskt bevattningsystem för loopens växter</li>
 		<li><span class="date">Snart</span> NFC-medlemskort för alla loopare</li>
 	</ul>
