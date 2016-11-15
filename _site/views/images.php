@@ -1,0 +1,143 @@
+<section>
+	<div class="intro">
+		<h2>Alla bilder</h2>
+		<p>Lokalen går i en lite ruffare industriell stil med fokus på komfort med trevlig belysning och öppna ytor som öppnar för kollaborering. Lokalen byggs upp pö om pö och alla våra gäster får vara med och påverka för att alla ska bli så nöjda som möjligt.</p>
+	</div>
+	<div class="gallery">
+		<div class="column">
+			<div class="item">
+				<article>
+					<figure>
+						<img src="/assets/img/office12.jpg" alt="" />
+					</figure>
+					<figcaption>
+						<strong>ENTRÉ</strong> Det händer massor i lokalen, entrén har uppdaterats bland annat!
+					</figcaption>
+				</article>
+			</div>
+			<div class="item">
+				<article>
+					<figure>
+						<img src="/assets/img/office1.jpg" alt="" />
+					</figure>
+					<figcaption>
+						<strong>Coworking</strong> Jesper förbereder belysningen för flexplatserna.
+					</figcaption>
+				</article>
+			</div>
+			<div class="item">
+				<article>
+					<figure>
+						<img src="/assets/img/office4.jpg" alt="" />
+					</figure>
+					<figcaption>
+						<strong>Coworking</strong> Flexplatserna är redo och en del redan uthyrda!
+					</figcaption>
+				</article>
+			</div>
+			<div class="item">
+				<article>
+					<figure>
+						<img src="/assets/img/office13.jpg" alt="" />
+					</figure>
+					<figcaption>
+						<strong>FASTA PLATSER</strong> På dom fasta platserna har du ett eget 150x75 cm bord i en grupp om två eller tre.
+					</figcaption>
+				</article>
+			</div>
+			<div class="item">
+				<article>
+					<figure>
+						<img src="/assets/img/office9.jpg" alt="" />
+					</figure>
+					<figcaption>
+						<strong>LOUNGE</strong> Häng i soffan och bolla idéer med andra på loopen eller ta ett möte med en kund.
+					</figcaption>
+				</article>
+			</div>
+			<div class="item">
+				<article>
+					<figure>
+						<img src="/assets/img/office15.jpg" alt="" />
+					</figure>
+					<figcaption>
+						<strong>KONTORSRUM</strong> Ett av kontorsrummen har dubbla ingångar och stort fönster ut mot gatan.
+					</figcaption>
+				</article>
+			</div>
+			<div class="item portrait">
+				<article>
+					<figure>
+						<img src="/assets/img/office10.jpg" alt="" />
+					</figure>
+					<figcaption>
+						<strong>GROTTAN</strong> Grottan är en större yta längst in i lokalen som tillfälligt är ämnad till konferens/lunchrum och övrig arbetsyta. Denna del planeras att delas upp till konferens, telefonrum och ytterligare ett kontorsrum. Vi är dock öppna för förslag om våra gäster vill något annat :)
+					</figcaption>
+				</article>
+			</div>
+		</div>
+		<div class="column">
+			<div class="item portrait">
+				<article>
+					<figure>
+						<img src="/assets/img/office3.jpg" alt="" />
+					</figure>
+					<figcaption>
+						<strong>LOOPEN</strong> Skylten är uppe och folk börjar flytta in. Fönsterstripening nästa! För dig som lirar Pokémon GO så nås PokéStop från entrén ;)
+					</figcaption>
+				</article>
+			</div>
+
+			<div class="item">
+				<article>
+					<figure>
+						<img src="/assets/img/office11.jpg" alt="" />
+					</figure>
+					<figcaption>
+						<strong>MEETUP</strong> 46elks och sponsorer till nordens första Trainhack gästade Creative Loop med preppande dagen före
+					</figcaption>
+				</article>
+			</div>
+			<div class="item">
+				<article>
+					<figure>
+						<img src="/assets/img/office6.jpg" alt="" />
+					</figure>
+					<figcaption>
+						<strong>BELYSNING</strong> Hänglampor sätter stilen på lokalen.
+					</figcaption>
+				</article>
+			</div>
+			<div class="item portrait">
+				<article>
+					<figure>
+						<img src="/assets/img/office5.jpg" alt="" />
+					</figure>
+					<figcaption>
+						<strong>ENTRÉ</strong> Lokalen vaktas av vårat high-tech kodlås som automatiskt låser dörren när du kommer och går, ta ett steg ut så är du mitt i Vasa/Linné och alla göttigheter som området bjuder på.
+					</figcaption>
+				</article>
+			</div>
+			<div class="item">
+				<article>
+					<figure>
+						<img src="/assets/img/office14.jpg" alt="" />
+					</figure>
+					<figcaption>
+						<strong>GROTTAN</strong> Exempel på hur man skulle kunna sitta i grottan.
+					</figcaption>
+				</article>
+			</div>
+			<div class="item">
+				<article>
+					<figure>
+						<img src="/assets/img/office16.jpg" alt="" />
+					</figure>
+					<figcaption>
+						<strong>GROTTAN</strong> Exempel på hur man skulle kunna sitta i grottan.
+					</figcaption>
+				</article>
+			</div>
+		</div>
+	</div>
+</section>

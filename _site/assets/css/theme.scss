@@ -1,0 +1,515 @@
+@import "modules/reset";
+
+body {
+	font-family: "neuzeit-grotesk",sans-serif;
+	font-style: normal;
+	font-weight: 300;
+	color: #1C1E22;
+	line-height: 1.5;
+	display: none;
+}
+
+a {
+	color: #1C1E22;
+}
+
+strong, b { font-weight: 700; }
+
+h1, h2, h3, h4, h5 { font-weight: 400; }
+
+#dot-matrix {
+	background: url(/assets/img/dotmatrix.png);
+	height: 100%;
+	width: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 1;
+	opacity: 0.5;
+}
+
+a:hover {
+	cursor: pointer;
+}
+
+.nav-padder {
+	width: 100%;
+	height: 80px;
+}
+
+.main-navigation {
+	position: fixed;
+	z-index: 10;
+	width: 100%;
+	top: 0;
+	background: #FFF;
+	border-bottom: 1px solid #ededed;
+	height: 80px;
+	padding: 20px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	a {
+		height: 100%;
+		img {
+			height: 100%;
+			width: auto;
+		}
+	}
+	ul {
+		display: flex;
+		align-items: center;
+		li {
+			padding: 0 8px;
+			a {
+				text-decoration: none;
+				padding: 12px;
+				&:hover {
+					background: #ededed;
+				}
+			}
+		}
+	}
+}
+
+.main-header {
+	position: relative;
+	z-index: 2;
+	padding: 90px 50px 50px 50px;
+	text-align: center;
+	margin: 20px 20px 0 20px;
+	background-color: #e8e8e8;
+	background-image: url(/assets/img/room1920-2.jpg);
+	background-size: cover;
+	background-position: 50% 50%;
+	height: calc(100vh - 120px);
+	overflow: hidden;
+	.flex {
+		display: flex;
+		align-items: center;
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+	}
+	.inner {
+		max-width: 700px;
+		margin: 0 auto;
+		z-index: 2;
+		position: relative;
+		padding: 20px;
+		.logo-text {
+			opacity: 0;
+			width: 85%;
+			margin: 30px auto 0 auto;
+			display: block;
+			transition: all 1s ease;
+			transition-delay: 2.4s;
+			&.active { opacity: 1; }
+		}
+	}
+}
+
+.content {
+	border-top: 0;
+	h1 {
+		font-size: 82px;
+		line-height: 1.2;
+		margin: 0 0 30px 0;
+	}
+	ul { margin-bottom: 20px; }
+}
+
+.plan {
+	display: flex;
+	.column {
+		width: 50%;
+	}
+	img {
+		width: 100%;
+		max-height: 80vh;
+		margin: 50px auto 0 auto;
+		display: block;
+	}
+}
+
+section {
+	border-top: 1px solid #ebebeb;
+	padding: 100px 20px 100px 20px;
+	.intro {
+		text-align: center;
+		h2 {
+			margin-bottom: 20px;
+		}
+		p {
+			max-width: 700px;
+			margin: 0 auto;
+		}
+		p+p {
+			margin-top: 20px;
+		}
+	}
+	.outro {
+		text-align: center;
+		margin: 60px auto 0 auto;
+		background: #ededed;
+		padding: 20px;
+		width: 100%;
+		max-width: 740px;
+		p {
+			max-width: 700px;
+			margin: 0 auto;
+		}
+		img {
+			width: 22px;
+			display: inline-block;
+			margin-bottom: -5px;
+		}
+	}
+}
+
+.welcome {
+
+}
+
+.gallery {
+	padding: 100px 60px 60px 60px;
+	display: flex;
+	.column {
+		width: 50%;
+		&:first-child { padding-right: 2rem; }
+		&:last-child { padding-left: 2rem; }
+		.item {
+			width: 83.333%;
+			margin-bottom: 12rem;
+			&:nth-child(odd) {
+				float: left;
+			}
+			&:nth-child(even) {
+				float: right;
+				&.portrait {
+					width: 100%;
+				}
+			}
+			&:last-child { margin-bottom: 0; }
+			&.landscape {
+				width: 83.333%;
+			}
+			&.portrait {
+				article {
+					//width: 65%;
+				}
+			}
+			img {
+				width: 100%;
+			}
+			figcaption {
+				font-size: 14px;
+				strong {
+					font-weight: 700;
+					text-transform: uppercase;
+				}
+			}
+		}
+	}
+}
+
+.pricing-section {
+
+	.outro {
+
+	}
+	.pricing-table {
+		display: flex;
+		padding: 100px 0 40px 0;
+		max-width: 1440px;
+		margin: 0 auto;
+		.item {
+			background: #FFF;
+			border: 1px solid #ededed;
+			width: 33.33333333333333%;
+			margin: 0 20px;
+			text-align: center;
+			position: relative;
+			.header {
+				border-bottom: 1px solid #ededed;
+
+				position: relative;
+				.type {
+					/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#9ed89f+0,5dccae+100 */
+					background: #9ed89f; /* Old browsers */
+					background: -moz-linear-gradient(45deg,  #9ed89f 0%, #5dccae 100%); /* FF3.6-15 */
+					background: -webkit-linear-gradient(45deg,  #9ed89f 0%,#5dccae 100%); /* Chrome10-25,Safari5.1-6 */
+					background: linear-gradient(45deg,  #9ed89f 0%,#5dccae 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+					filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#9ed89f', endColorstr='#5dccae',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+					color: #FFF;
+					padding: 30px;
+					&.second {
+						/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#a2dbdb+0,6ac6e8+100 */
+						background: #a2dbdb; /* Old browsers */
+						background: -moz-linear-gradient(45deg,  #a2dbdb 0%, #6ac6e8 100%); /* FF3.6-15 */
+						background: -webkit-linear-gradient(45deg,  #a2dbdb 0%,#6ac6e8 100%); /* Chrome10-25,Safari5.1-6 */
+						background: linear-gradient(45deg,  #a2dbdb 0%,#6ac6e8 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+						filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a2dbdb', endColorstr='#6ac6e8',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+					}
+					&.third {
+						/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#cea2db+0,ea6b8f+100 */
+						background: #cea2db; /* Old browsers */
+						background: -moz-linear-gradient(45deg,  #cea2db 0%, #ea6b8f 100%); /* FF3.6-15 */
+						background: -webkit-linear-gradient(45deg,  #cea2db 0%,#ea6b8f 100%); /* Chrome10-25,Safari5.1-6 */
+						background: linear-gradient(45deg,  #cea2db 0%,#ea6b8f 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+						filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cea2db', endColorstr='#ea6b8f',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+					}
+				}
+				.notice {
+					position: absolute;
+					bottom: -15px;
+					left: 50%;
+					margin-left: -52px;
+					background: #FFF;
+					border: 1px solid #ededed;
+					padding: 6px 10px;
+					width: 104px;
+					font-size: 12px;
+					display: block;
+					color: #25B770;
+					&.shortage {
+						color: #F4455A;
+					}
+				}
+			}
+			.content {
+				padding: 30px;
+			}
+			h3 {
+				font-size: 34px;
+			}
+			h4 {
+				margin-bottom: 7px;
+			}
+			img {
+				height: 60px;
+			}
+		}
+	}
+}
+
+.events {
+	background: #191919;
+	color: #FFF;
+	ul {
+		max-width: 700px;
+		margin: 80px auto 0 auto;
+		li {
+			display: flex;
+			align-items: center;
+			padding: 20px;
+			border-bottom: 1px solid #ededed;
+			&:last-child { border-bottom: none; }
+			.date {
+				font-weight: 700;
+				margin-right: 20px;
+				display: inline-block;
+				flex-basis: 72px;
+				min-width: 72px;
+			}
+		}
+	}
+}
+
+.hero {
+	padding: 200px 20px;
+	display: flex;
+	.content {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		width: 100%;
+		.button-white-outline {
+			border: 1px solid #FFF;
+			padding: 10px 20px;
+			text-transform: uppercase;
+			color: #FFF;
+			text-decoration: none;
+			font-size: 14px;
+			margin: 20px;
+			transition: .3s all ease;
+			&:hover {
+				background: #FFF;
+				color: #000;
+			}
+		}
+	}
+	&.facebook {
+		background-image: url(../img/room1920.jpg);
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position: 50%;
+	}
+	&.imageone {
+		background-image: url(../img/baiku.jpg);
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position: 50%;
+	}
+}
+
+.footer {
+	background: #191919;
+	color: #FFF;
+	padding: 150px 20px;
+	border-top: none;
+	a {
+		color: #FFF;
+	}
+	img {
+		width: 100%;
+		max-width: 300px;
+		display: block;
+		margin: 0 auto 50px auto;
+	}
+	.social-icons {
+		margin-top: 30px;
+		li {
+			display: inline-block;
+			margin-right: 20px;
+			&:last-child { margin-right: 0; }
+			img {
+				width: 48px;
+			}
+		}
+	}
+}
+
+.loop {
+	background: url(../img/looop.svg);
+	background-size: 120%;
+	background-position: 50%;
+	background-repeat: no-repeat;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	opacity: 0.05;
+	animation-name: rotateLoopOne;
+	animation-duration: 200s;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+}
+
+@keyframes rotateLoopTwo {
+	from {transform: rotate(90deg);}
+	to {transform: rotate(450deg);}
+}
+
+@keyframes rotateLoopThree {
+	from {transform: rotate(160deg);}
+	to {transform: rotate(520deg);}
+}
+
+@keyframes rotateLoopOne {
+	from {transform: rotate(0deg);}
+	to {transform: rotate(-360deg);}
+}
+
+#loop2 {
+	transform: rotate(90deg);
+	animation-name: rotateLoopTwo;
+	animation-duration: 100s;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+}
+
+#loop3 {
+	transform: rotate(160deg);
+	animation-name: rotateLoopThree;
+	animation-duration: 150s;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+}
+
+#loop4 {
+	width: 100%;
+	height: 100%;
+	background-size: 4%;
+	background-position: 0 0;
+	background-repeat: repeat;
+	z-index: -1;
+}
+
+h1 {
+	font-size: 120px;
+	margin: 50px;
+}
+
+h2 {
+	font-size: 40px;
+	line-height: 1.2;
+}
+
+.main-footer {
+	border-top: 1px solid #ebebeb;
+	padding: 20px;
+	text-align: center;
+}
+
+@media (max-width: 1300px) {
+	.content {
+		h1 {
+			font-size: 64px;
+		}
+	}
+}
+
+@media (max-width: 1000px) {
+	.pricing-section {
+		.pricing-table {
+			flex-flow: row wrap;
+			.item {
+				width: 100%;
+				margin-bottom: 80px;
+				&:last-child {
+					margin-bottom: 0;
+				}
+			}
+		}
+	}
+	.gallery {
+		flex-flow: row wrap;
+		padding: 30px;
+		.column {
+			width: 100%;
+			&:first-child {
+				padding-right: 0;
+				.item {
+					&:last-child { margin-bottom: 6rem; }
+				}
+			}
+			&:last-child {
+				padding-left: 0;
+			}
+			.item {
+				margin-bottom: 6rem;
+			}
+		}
+	}
+	.plan {
+		flex-flow: row wrap;
+		.column {
+			width: 100%;
+		}
+	}
+}
+
+@media (max-width: 500px) {
+	.loop {
+		opacity: 0.1;
+	}
+	.content {
+		h1 {
+			font-size: 48px;
+		}
+	}
+}
